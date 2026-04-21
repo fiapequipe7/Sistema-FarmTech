@@ -338,17 +338,17 @@ Possíveis evoluções do projeto:
 ---
 
 ## 👨‍🎓 Integrantes: 
-- <a href="https://www.linkedin.com/company/inova-fusca">Ricardo Colpani Sprocati de OLiveira</a>
-- <a href="https://www.linkedin.com/company/inova-fusca">Luiz Henrique Martins Dias </a>
-- <a href="https://www.linkedin.com/company/inova-fusca">Walter Corradini Ferreira </a> 
-- <a href="https://www.linkedin.com/company/inova-fusca">Fahd Ozelame Al Khaldi</a> 
-- <a href="https://www.linkedin.com/company/inova-fusca">Eric Roberto Miglioli</a>
+- Ricardo Colpani Sprocati de OLiveira</a>
+- Luiz Henrique Martins Dias </a>
+- Walter Corradini Ferreira </a> 
+- Fahd Ozelame Al Khaldi</a> 
+- Eric Roberto Miglioli</a>
 
 ## 👩‍🏫 Professores:
 ### Tutor(a) 
-- <a href="https://www.linkedin.com/company/inova-fusca">Nicolly Candida Rodrigues de Souza</a>
+- Nicolly Candida Rodrigues de Souza</a>
 ### Coordenador(a)
-- <a href="https://www.linkedin.com/company/inova-fusca">Andre Godoi Chiovato</a>
+- Andre Godoi Chiovato</a>
 
 ---
 
