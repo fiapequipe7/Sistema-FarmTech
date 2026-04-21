@@ -1,5 +1,8 @@
 # Sistema-FarmTech
 
+<img width="1867" height="930" alt="captura" src="https://github.com/user-attachments/assets/0968e5bc-00d0-4b5d-9984-c85339226f6b" />
+
+
 # 🌱 FarmTech Solutions – Fase 2
 ## Sistema de Irrigação Inteligente – Cana-de-Açúcar
 
